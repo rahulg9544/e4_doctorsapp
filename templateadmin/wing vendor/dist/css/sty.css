@@ -1,0 +1,61 @@
+
+.dan{
+  color: red;
+
+}
+
+.succ{
+
+  color: green;
+}
+
+.war{
+
+  color: yellow;
+}
+
+.prim{
+
+	color: blue;
+}
+
+
+.card-wing:not(.card-outline)>.card-header {
+    background-color: #50a2f9;
+}
+
+.content-wrapper {
+    background: #adadad;
+}
+
+[class*=sidebar-dark-] {
+    background-color: #0e5c89;
+}
+
+[class*=sidebar-dark] .user-panel {
+    border-bottom: 1px solid #80cbe4;
+}
+
+[class*=sidebar-dark] .brand-link {
+    border-bottom: 1px solid #4b545c;
+    color: rgb(255, 255, 255);
+    font-weight: bold !important;
+}
+
+.font-weight-light {
+    font-weight: bold !important;
+}
+
+.layout-navbar-fixed .wrapper .sidebar-dark-primary .brand-link:not([class*=navbar]) {
+    background-color: #2893c9;
+}
+
+.modal-header-bl{
+
+	background-color: #007bff;
+    color: #fff;
+}
+
+.navbar-blue {
+    background-color: #2893c9;
+}
